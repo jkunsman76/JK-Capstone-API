@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "JakeCamps1"
+    },
+    {
+      "id": 2,
+      "name": "JakeCamps12"
+    },
+    {
+      "id": 3,
+      "name": "JakeCamps123"
+    },
+    {
+      "id": 4,
+      "name": "JakeCamps1234"
+    },
+    {
+      "name": "WOW",
+      "id": 5
+    },
+    {
+      "name": "Jacob Kunsman",
+      "id": 6
+    }
+  ],
+  "campsites": [
+    {
+      "id": 1,
+      "name": "LillyPad Campground",
+      "cityState": "Lancing, TN",
+      "userId": 1,
+      "majorCity": "Knoxville, TN",
+      "phoneNumber": "865-617-0984",
+      "gpsCoordinates": "36.103346, -84.713991",
+      "price": 20,
+      "description": "A small campground with a craft brewery on the Cumberland Plateau, adjacent to the Obed Wild and Scenic River National Park. We serve home-grown beer. You can also eat here at The Sauced Frog . There is nothing like a good craft beer, delicious food in your belly, a cozy campfire, and some impromptu strumming under the stars.",
+      "toilets": true,
+      "showers": true,
+      "trash": true,
+      "pinicTables": true,
+      "isFree": true,
+      "petFriendly": true,
+      "isDark": true,
+      "parking": true,
+      "carCamp": true,
+      "tentCamp": true,
+      "fire": true,
+      "water": true,
+      "dateCreated": "2021-1-13T19:56:21.294Z",
+      "photos": ""
+    },
+    {
+      "id": 2,
+      "name": "Blue Heron Campground",
+      "cityState": "Strunk, KY",
+      "userId": 2,
+      "majorCity": "Knoxville, TN",
+      "phoneNumber": "1-877-444-6777",
+      "gpsCoordinates": "36.678648, -84.519578",
+      "price": 28,
+      "description": "Blue Heron Campground is a rustic and spacious campground, situated on the Kentucky side of The Big South Fork National River and Recreation Area--a vast and scenic expanse of land that offers visitors countless recreational activities.",
+      "toilets": true,
+      "showers": true,
+      "trash": true,
+      "pinicTables": true,
+      "isFree": true,
+      "petFriendly": true,
+      "isDark": true,
+      "parking": true,
+      "carCamp": true,
+      "tentCamp": true,
+      "fire": true,
+      "water": true,
+      "dateCreated": "2021-10-13T19:55:58.966Z",
+      "photos": ""
+    },
+    {
+      "id": 3,
+      "name": "Tennessee Wall Campground",
+      "cityState": " Prentice Cooper State Forest, TN",
+      "userId": 2,
+      "majorCity": "Chattanooga, TN",
+      "phoneNumber": "1-877-444-6777",
+      "gpsCoordinates": "36.678648, -84.519578",
+      "price": 0,
+      "description": "Minimal campsite along the road with few amenities. near a popular rock climbing destination",
+      "toilets": false,
+      "showers": false,
+      "trash": false,
+      "pinicTables": false,
+      "isFree": true,
+      "petFriendly": true,
+      "isDark": true,
+      "parking": true,
+      "carCamp": true,
+      "tentCamp": true,
+      "fire": true,
+      "water": false,
+      "dateCreated": "2021-2-13T19:56:04.306Z",
+      "photos": ""
+    },
+    {
+      "id": 4,
+      "name": "Jackson Falls",
+      "cityState": "Simpson, IL",
+      "userId": 2,
+      "majorCity": "St. Louis, MO",
+      "gpsCoordinates": "37.506600, -88.681600",
+      "price": "0",
+      "description": "Peaceful dirt road with pull offs for car camping, dispersed tent spots in the woods, and a small parking lot for extra cars.",
+      "toilets": true,
+      "showers": false,
+      "trash": true,
+      "pinicTables": false,
+      "isFree": true,
+      "petFriendly": true,
+      "isDark": true,
+      "parking": true,
+      "carCamp": true,
+      "tentCamp": true,
+      "fire": true,
+      "water": false,
+      "dateCreated": "2021-6-13T19:06:59.365Z",
+      "photos": ""
+    },
+    {
+      "id": 5,
+      "name": "Miguels Pizza",
+      "cityState": "Slade, KY",
+      "userId": 5,
+      "majorCity": "Lexington, KY",
+      "phoneNumber": "(606) 663-1975",
+      "gpsCoordinates": "37.783038, -83.682922",
+      "price": "4",
+      "description": "Miguel's Pizza offers cheap and unique camping with some of the best rock climbing in the Eastern U.S. In your downtime, enjoy good food, a basketball court, and other fun games. Enjoy some amazing pizza and a refreshing adult beverage all within walking distance to your tent!",
+      "toilets": true,
+      "showers": true,
+      "trash": true,
+      "pinicTables": true,
+      "isFree": false,
+      "petFriendly": true,
+      "isDark": true,
+      "parking": false,
+      "carCamp": true,
+      "tentCamp": true,
+      "fire": true,
+      "water": true,
+      "dateCreated": "2021-12-13T19:53:34.737Z",
+      "photos": ""
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "userId": 2,
+      "campsiteId": 1
+    }
+  ],
+  "comments": []
+}
