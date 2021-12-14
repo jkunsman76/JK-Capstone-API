@@ -23,6 +23,10 @@
     {
       "name": "Jacob Kunsman",
       "id": 6
+    },
+    {
+      "name": "Monica",
+      "id": 7
     }
   ],
   "campsites": [
@@ -48,7 +52,9 @@
       "tentCamp": true,
       "fire": true,
       "water": true,
-      "dateCreated": "2021-1-13T19:56:21.294Z",
+      "wifi": true,
+      "cellService": true,
+      "dateCreated": 1639497652710,
       "photos": ""
     },
     {
@@ -73,7 +79,8 @@
       "tentCamp": true,
       "fire": true,
       "water": true,
-      "dateCreated": "2021-10-13T19:55:58.966Z",
+      "wifi": false,
+      "dateCreated": 1639497525009,
       "photos": ""
     },
     {
@@ -85,7 +92,7 @@
       "phoneNumber": "1-877-444-6777",
       "gpsCoordinates": "36.678648, -84.519578",
       "price": 0,
-      "description": "Minimal campsite along the road with few amenities. near a popular rock climbing destination",
+      "description": "Minimal campsite along the road with few amenities. Near a popular rock climbing destination",
       "toilets": false,
       "showers": false,
       "trash": false,
@@ -98,7 +105,9 @@
       "tentCamp": true,
       "fire": true,
       "water": false,
-      "dateCreated": "2021-2-13T19:56:04.306Z",
+      "wifi": false,
+      "cellService": false,
+      "dateCreated": 1639510791664,
       "photos": ""
     },
     {
@@ -122,7 +131,9 @@
       "tentCamp": true,
       "fire": true,
       "water": false,
-      "dateCreated": "2021-6-13T19:06:59.365Z",
+      "wifi": false,
+      "cellService": true,
+      "dateCreated": 1639504272789,
       "photos": ""
     },
     {
@@ -147,8 +158,36 @@
       "tentCamp": true,
       "fire": true,
       "water": true,
-      "dateCreated": "2021-12-13T19:53:34.737Z",
+      "wifi": true,
+      "cellService": true,
+      "dateCreated": 1639497667383,
       "photos": ""
+    },
+    {
+      "name": "North River Campground",
+      "cityState": "Tellico Plains, TN",
+      "userId": 1,
+      "majorCity": "Knoxville, TN",
+      "gpsCoordinates": "35.318824, -84.125227",
+      "price": "8",
+      "description": "Looking for a beautiful place to camp near the river? Look no further! This small campground has 11 sites, a scenic river, and more wilderness then Steve Irwin could shake a stick at! for those who love Rafting, Kayaking, Hiking, And Fly Fishing, You have now found your own paradise!  ",
+      "toilets": true,
+      "showers": false,
+      "trash": true,
+      "pinicTables": true,
+      "isFree": false,
+      "petFriendly": true,
+      "isDark": true,
+      "parking": true,
+      "carCamp": true,
+      "tentCamp": true,
+      "fire": true,
+      "water": false,
+      "wifi": false,
+      "cellService": false,
+      "dateCreated": 1639498511596,
+      "photos": "",
+      "id": 6
     }
   ],
   "favorites": [
